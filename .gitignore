@@ -27,3 +27,16 @@
 *.exe
 *.out
 *.app
+
+# Unreal Engine
+Binaries
+Build/**
+Releases/**
+Saved/**
+IOS/**
+Intermediate
+DerivedDataCache/**
+Packed/**
+CachedAssetRegistry.bin
+.vs/**
+**.db
